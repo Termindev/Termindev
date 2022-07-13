@@ -9,4 +9,4 @@ I know languages such as HTML, CSS & JS frameworks such as Bootstrap and Vue.js,
 
 If you want to ask a question or work with me, you can do so using this information.
 
-Discord: Termin#2727
+![Discord](https://i8.ae/kdoyp)
