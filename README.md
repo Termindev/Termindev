@@ -3,13 +3,26 @@
 
 
 ## 🚀 About Me
-I know languages such as HTML, CSS, and JS, frameworks such as Bootstrap, Tailwind, and Vue.js, libraries such as Discord.js, and a bit of React.
+I'm a front-end developer.
 
-## Contact information
+## 🛠 Skills
 
-If you want to ask a question or work with me, you can do so using this information.
+### Languges I know
+
+- HTML
+- CSS
+- JS
+- Dart
+
+### Frameworks/Libraries I know
+
+- Tailwind CSS
+- Bootstrap
+- Vue.js 
+- Nuxt.js
 
 
-<img src="https://i8.ae/kdoyp" style="max-width: 3%;">
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://termin.cypherbot.me/)
