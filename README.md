@@ -20,6 +20,7 @@ I'm a front-end developer.
 - Bootstrap
 - Vue.js 
 - Nuxt.js
+- Jest
 
 
 
