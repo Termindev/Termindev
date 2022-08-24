@@ -21,7 +21,6 @@ I'm a front-end developer.
 - Vue.js 
 - Nuxt.js
 - Jest
-[ ] Flutter
 
 
 
