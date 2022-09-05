@@ -21,6 +21,8 @@ I'm a front-end developer.
 - Vue.js 
 - Nuxt.js
 - Jest
+- Vitest
+- Vue-Test-Utils
 
 
 
