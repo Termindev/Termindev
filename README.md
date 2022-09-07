@@ -23,6 +23,7 @@ I'm a front-end developer.
 - Jest
 - Vitest
 - Vue-Test-Utils
+- Flutter
 
 
 
