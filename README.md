@@ -25,6 +25,7 @@ I'm a front-end developer.
 - Vue-Test-Utils
 - Flutter
 - Svelte
+- SvelteKit
 - ReactJS
 - Lit
 
