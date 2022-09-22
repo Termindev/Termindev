@@ -11,7 +11,8 @@ I'm a front-end developer.
 
 - HTML
 - CSS
-- JS
+- JavaScript
+- Python
 - Dart
 
 ### Frameworks/Libraries I know
