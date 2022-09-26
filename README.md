@@ -13,23 +13,17 @@ I'm a Front-End developer & Flutter Developer.
 ---
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 <img src="./images/html.png" width="70" />
 <img src="./images/js.png" width="70" />
 <img src="./images/python.png" width="70" />
 <img src="./images/Dart-logo.png" width="70" />
 <img src="./images/css.png" width="70" />
 =======
-=======
->>>>>>> parent of 14254dc (added display inline)
 <img src="./images/html.png" width="70" display="inline"/>
 <img src="./images/js.png" width="70" display="inline"/>
 <img src="./images/python.png" width="70" display="inline"/>
 <img src="./images/Dart-logo.png" width="70" display="inline"/>
 <img src="./images/css.png" width="70" display="inline"/>
-<<<<<<< HEAD
->>>>>>> parent of 14254dc (added display inline)
-=======
 >>>>>>> parent of 14254dc (added display inline)
 
 <br/>
